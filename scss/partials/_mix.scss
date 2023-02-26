@@ -163,8 +163,20 @@
     color: $clr13;
 }
 
+%clr15 {
+    color: $clr15;
+}
+
 %backClr13 {
     background-color: $clr13;
+}
+
+%backClr14 {
+    background-color: $clr14;
+}
+
+%backClr15 {
+    background-color: $clr15;
 }
 
 %inputReset {
@@ -212,6 +224,3 @@
         @content;
     }
 }
-
-
-
