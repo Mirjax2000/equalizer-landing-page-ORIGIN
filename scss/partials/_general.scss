@@ -300,6 +300,7 @@ body {
     }
 
     .container {
+        background-image: url(./../img/bg-main-tablet.png);
 
         &::after {
             right: -50px;
@@ -328,6 +329,7 @@ body {
 
     .container {
         padding: 0 3rem;
+        background-image: url(./../img/bg-main-mobile.png);
 
         &::after {
             display: none;
